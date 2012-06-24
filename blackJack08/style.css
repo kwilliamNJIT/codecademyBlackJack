@@ -1,0 +1,30 @@
+span {
+	color:red;
+}
+
+.header {
+  	background: #222;
+  	color: white;
+ 	top: 0;
+  	left: 0;
+  	right: 0;
+  	position: fixed;
+  	height: 75px;	
+}
+
+.header .name {
+	font-size: 42px;
+    float: left;
+	margin-bottom: 10px;
+	padding: 20px;
+}
+
+.clear { clear: both; }
+
+.main {
+	padding: 20px;
+	background: #ccc;
+  	margin-top:90px;
+	color: black;
+	height: 160px;
+}
